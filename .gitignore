@@ -1,0 +1,51 @@
+/checkstyle.xml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+
+
+*/build
+.idea/*
+.gradle/*
+local.properties
+gradle.properties
+*.iml
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+target
+pom.xml.*
+release.properties
+
+.idea
+*.iml
+*.ipr
+*.iws
+
+
+.DS_Store
+
+app/src/main/assets/crashlytics-build.properties
+app/src/main/res/values/com_crashlytics_export_strings.xml
+
+checkstyle.xml
+checkstyle.xsl
+lint.xml
